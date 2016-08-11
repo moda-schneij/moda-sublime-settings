@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularInject",
+		"AngularJS",
+		"EasyDiff",
+		"ESLint",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"JSONLint",
+		"Minify",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-rstylelint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"Terminal",
+		"TernJS",
+		"TypeScript"
+	]
+}
